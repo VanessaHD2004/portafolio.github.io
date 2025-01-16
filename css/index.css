@@ -42,10 +42,3 @@ main{
     flex: 5 5 100px;
     text-align: center;
 }
-
-.down{
-    background: #bd7b7b;
-    padding: 3em 1em 3em 1em;
-    flex: 5 5 100px;
-    text-align: center;
-}
